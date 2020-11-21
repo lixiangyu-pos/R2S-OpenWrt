@@ -182,7 +182,7 @@ CONFIG_LIBCURL_OPENSSL=y
 # CONFIG_LIBCURL_GNUTLS is not set
 # CONFIG_LIBCURL_NOSSL is not set
 
-#docker
+docker
 CONFIG_PACKAGE_luci-app-dockerman=y
 CONFIG_PACKAGE_luci-app-dockerman_INCLUDE_docker_ce=y
 CONFIG_PACKAGE_luci-app-dockerman_INCLUDE_ttyd=n
